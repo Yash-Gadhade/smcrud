@@ -1,15 +1,9 @@
-# Memories
+# Memories a Fullstack Mern CRUD application 
 
-![Memories](https://i.ibb.co/7CmVbCW/image.png)
+Live - https://smcrud.netlify.app/ - Frontend deployed on Netlify connected with Github
 
-## Introduction
-This is a code repository for the corresponding video tutorial - https://youtube.com/playlist?list=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SRkhu.
+Backend - https://smcrud.herokuapp.com/ - Deployed on Heroku connected with Github
 
-Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives.
+![image](https://user-images.githubusercontent.com/54960948/200334948-47531414-cc7f-40af-a245-4348a7dda377.png)
 
-By the end of this video, you will have a strong understanding of how the MERN Stack works.
 
-Setup:
-- run ```npm i && npm start``` for both client and server side to start the app
-
-TODO: rename post message, refactor reducers, add some cool memories, maybe clickable tags, fix update functionality
