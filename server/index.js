@@ -21,6 +21,9 @@ app.get('/', (req, res) => {
   res.send('App is running');
 })
 
+app.get('/', (req, res) => {
+  res.send("App is running");
+});
 
 const PORT = process.env.PORT || 5000;
 
